@@ -21,6 +21,3 @@
    Bar Chart:Average Anxiety Score, Average Depression Score, Average Stress Level, Average Work Stress by Education level
    Sta Bar Chart Years at Company
    Bar Chart: Attrition by Job Role
-
-
-   Average Anxiety Score, Average Depression Score, Average Stress Level, Average Work Stress by Education level
