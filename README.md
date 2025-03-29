@@ -8,8 +8,8 @@
 
  # 🔎 Key Features & KPIs
  # ✅ Core KPIs
-   1.Overall Employee Count
-   2.Attrition & Attrition Rate
+   1. Overall Employee Count
+   2. Attrition & Attrition Rate
    3.Average Age
    4.Average Salary
    5.Years at Company
