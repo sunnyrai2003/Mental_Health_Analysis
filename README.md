@@ -8,16 +8,9 @@
 
  # 🔎 Key Features & KPIs
  # ✅ Core KPIs
-   1. Overall Employee Count
-   2. Attrition & Attrition Rate
-   3.Average Age
-   4.Average Salary
-   5.Years at Company
-
- # 📊 Dynamic Visualizations
-   Donut Chart: 
-   Column Chart: Attrition by Age
-   Table: Job satisfaction across different job roles
-   Bar Chart:Average Anxiety Score, Average Depression Score, Average Stress Level, Average Work Stress by Education level
-   Sta Bar Chart Years at Company
-   Bar Chart: Attrition by Job Role
+   1. Average Age
+   2. Average Anxiety score
+   3. Average depression score
+   4. Average Anxiety score,Average depression score by Age
+   5. Average Anxiety score,Average depression score by Education lavel
+   6. Average Anxiety score,Average depression, Average work stress,Average  score by Education lavel
